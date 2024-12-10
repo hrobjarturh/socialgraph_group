@@ -9,3 +9,5 @@ datasets
 torch
 torchvision
 wordcloud
+scikit-learn
+python-louvain
